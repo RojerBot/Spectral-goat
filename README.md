@@ -173,7 +173,7 @@ $ spectral fingerprint --text AKIAXXXXXXXXXXXXXXXX
 b76fe610abe3bdaa92d4002dc0516dfa21c2dbf520373c6203469d0dee369888
 ```
 
-Then, you can safely add this fingerprint to your ignore rule, which will ignore the content behind the fingerprint.
+Then, you can safely add this fingerprint to your ignore rule, which will ignore the content behind the fingerprint..
 
 
 
